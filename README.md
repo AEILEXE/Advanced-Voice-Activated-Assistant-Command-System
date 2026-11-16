@@ -1,5 +1,7 @@
 # AVAACS
 
+> **About this fork:** AVAACS (Voice Assistant Application with Telegram Bot) was an academic team project (January–May 2025). Whinelit Mae L. Recto served as **Project Manager**, coordinating planning, task delegation, testing, and documentation. The code in this repository was written by the development team; see the commit history for authorship.
+
 **Advanced Voice-Activated Alert and Communication System**
 
 ### To use this:
